@@ -45,6 +45,20 @@ Interface simples e responsiva utilizando Bootstrap 4.
 
 2. Certifique-se de que a conta do Gmail utilizada:
 
-Possui uma senha de aplicativo configurada.
-Está habilitada para envio de e-mails via SMTP.
-3. Configure o remetente no método setFrom:
+Possui uma senha de aplicativo configurada.     
+Está habilitada para envio de e-mails via SMTP.    
+3. Configure o remetente no método setFrom:    
+
+## Tecnologias Utilizadas
+PHP: Linguagem principal para o backend.   
+PHPMailer: Biblioteca para envio de e-mails via SMTP.   
+Bootstrap 4: Framework CSS para estilização e responsividade.    
+
+## Créditos
+Este projeto foi desenvolvido com base no curso da UDEMY ministrado por Jorge Sant Ana e Jamilton Damasceno.
+O curso aborda conceitos fundamentais de desenvolvimento web.
+
+## Observações
+Este projeto utiliza credenciais fictícias para demonstração. Certifique-se de configurar suas próprias credenciais antes de utilizá-lo.    
+Não publique suas credenciais reais em repositórios públicos ou redes sociais.   
+Para maior segurança, considere utilizar variáveis de ambiente para armazenar suas credenciais.   
