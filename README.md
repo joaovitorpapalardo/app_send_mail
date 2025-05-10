@@ -8,7 +8,12 @@ Exibição de mensagens de sucesso ou erro após o envio do e-mail.
 Interface simples e responsiva utilizando Bootstrap 4.
 ## Estrutura do Projeto
 A estrutura principal do projeto é a seguinte:
-app_send_mail/ ├── bibliotecas/ │ └── PHPMailer/ # Biblioteca PHPMailer ├── index.php # Página inicial com o formulário de envio ├── processa_envio.php # Script responsável por processar o envio do e-mail └── logo.png # Logo exibido na interface
+app_send_mail/
+├── bibliotecas/
+│   └── PHPMailer/          # Biblioteca PHPMailer
+├── index.php               # Página inicial com o formulário de envio
+├── processa_envio.php      # Script responsável por processar o envio do e-mail
+└── logo.png                # Logo exibido na interface
 
 
 ---
