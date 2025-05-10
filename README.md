@@ -46,7 +46,8 @@ Interface simples e responsiva utilizando Bootstrap 4.
 2. Certifique-se de que a conta do Gmail utilizada:
 
 Possui uma senha de aplicativo configurada.     
-Está habilitada para envio de e-mails via SMTP.    
+Está habilitada para envio de e-mails via SMTP.  
+
 3. Configure o remetente no método setFrom:    
 
 ## Tecnologias Utilizadas
